@@ -1,0 +1,156 @@
+2026-02-08 22:38:29.018228: get_session() called - creating fresh engine
+2026-02-08 22:38:29.020271: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-08 22:38:37.614718: get_session() called - creating fresh engine
+2026-02-08 22:38:37.616719: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-08 22:38:42.959071: get_session() called - creating fresh engine
+2026-02-08 22:38:42.987333: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-08 22:38:48.525665: get_session() called - creating fresh engine
+2026-02-08 22:38:48.528663: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:26:25.676477: get_session() called - creating fresh engine
+2026-02-09 11:26:25.678564: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:26:31.014576: get_session() called - creating fresh engine
+2026-02-09 11:26:31.015595: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:26:35.005113: get_session() called - creating fresh engine
+2026-02-09 11:26:35.008121: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:26:39.010010: get_session() called - creating fresh engine
+2026-02-09 11:26:39.012006: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:26:40.827409: get_session() called - creating fresh engine
+2026-02-09 11:26:40.829416: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:26:46.571158: get_session() called - creating fresh engine
+2026-02-09 11:26:46.573165: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:26:46.585089: get_session() called - creating fresh engine
+2026-02-09 11:26:46.586091: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:26:50.566341: get_session() called - creating fresh engine
+2026-02-09 11:26:50.570251: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:27:11.097233: get_session() called - creating fresh engine
+2026-02-09 11:27:11.100875: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:27:16.940276: get_session() called - creating fresh engine
+2026-02-09 11:27:16.943285: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:27:20.229427: get_session() called - creating fresh engine
+2026-02-09 11:27:20.232389: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:27:35.778215: get_session() called - creating fresh engine
+2026-02-09 11:27:35.781217: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:27:39.741289: get_session() called - creating fresh engine
+2026-02-09 11:27:39.743282: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:27:39.766332: get_session() called - creating fresh engine
+2026-02-09 11:27:39.769329: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:27:44.619839: get_session() called - creating fresh engine
+2026-02-09 11:27:44.623478: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:28:04.838649: get_session() called - creating fresh engine
+2026-02-09 11:28:04.841164: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:28:05.914857: get_session() called - creating fresh engine
+2026-02-09 11:28:05.917928: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:28:06.120290: get_session() called - creating fresh engine
+2026-02-09 11:28:06.123288: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:28:06.304388: get_session() called - creating fresh engine
+2026-02-09 11:28:06.320321: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:28:06.472050: get_session() called - creating fresh engine
+2026-02-09 11:28:06.475039: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:28:06.620363: get_session() called - creating fresh engine
+2026-02-09 11:28:06.623365: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:29:02.269492: get_session() called - creating fresh engine
+2026-02-09 11:29:02.272157: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:29:31.524382: get_session() called - creating fresh engine
+2026-02-09 11:29:31.527392: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:29:36.685324: get_session() called - creating fresh engine
+2026-02-09 11:29:36.689764: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:29:46.077181: get_session() called - creating fresh engine
+2026-02-09 11:29:46.080160: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:29:50.898579: get_session() called - creating fresh engine
+2026-02-09 11:29:50.901596: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:29:57.965843: get_session() called - creating fresh engine
+2026-02-09 11:29:57.968846: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:29:57.996887: get_session() called - creating fresh engine
+2026-02-09 11:29:57.998841: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:30:05.641445: get_session() called - creating fresh engine
+2026-02-09 11:30:05.644444: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:30:14.077975: get_session() called - creating fresh engine
+2026-02-09 11:30:14.080984: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:30:15.473411: get_session() called - creating fresh engine
+2026-02-09 11:30:15.476450: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:44:05.213848: get_session() called - creating fresh engine
+2026-02-09 11:44:05.213848: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:44:11.630695: get_session() called - creating fresh engine
+2026-02-09 11:44:11.632693: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:44:11.677734: get_session() called - creating fresh engine
+2026-02-09 11:44:11.680693: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:44:21.628256: get_session() called - creating fresh engine
+2026-02-09 11:44:21.631212: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:44:41.609230: get_session() called - creating fresh engine
+2026-02-09 11:44:41.610233: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:44:45.895142: get_session() called - creating fresh engine
+2026-02-09 11:44:45.895142: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:44:47.293565: get_session() called - creating fresh engine
+2026-02-09 11:44:47.295274: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:44:56.620761: get_session() called - creating fresh engine
+2026-02-09 11:44:56.622720: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:44:56.868140: get_session() called - creating fresh engine
+2026-02-09 11:44:56.870140: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:45:02.405915: get_session() called - creating fresh engine
+2026-02-09 11:45:02.406914: get_session() called - creating fresh engine
+2026-02-09 11:45:02.408921: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:45:02.408921: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:45:07.502276: get_session() called - creating fresh engine
+2026-02-09 11:45:07.504280: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:45:10.527338: get_session() called - creating fresh engine
+2026-02-09 11:45:10.528300: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:45:16.458343: get_session() called - creating fresh engine
+2026-02-09 11:45:16.460228: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:45:16.481227: get_session() called - creating fresh engine
+2026-02-09 11:45:16.484225: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:45:21.364777: get_session() called - creating fresh engine
+2026-02-09 11:45:21.366730: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:45:30.742995: get_session() called - creating fresh engine
+2026-02-09 11:45:30.745014: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 11:45:32.190549: get_session() called - creating fresh engine
+2026-02-09 11:45:32.192567: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:01:14.293070: get_session() called - creating fresh engine
+2026-02-09 12:01:14.294067: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:01:39.857298: get_session() called - creating fresh engine
+2026-02-09 12:01:39.858219: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:03:42.227882: get_session() called - creating fresh engine
+2026-02-09 12:03:42.227882: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:17:02.276219: get_session() called - creating fresh engine
+2026-02-09 12:17:02.278901: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:17:06.201526: get_session() called - creating fresh engine
+2026-02-09 12:17:06.203480: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:17:10.298205: get_session() called - creating fresh engine
+2026-02-09 12:17:10.302203: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:17:13.676536: get_session() called - creating fresh engine
+2026-02-09 12:17:13.678493: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:17:14.531457: get_session() called - creating fresh engine
+2026-02-09 12:17:14.536431: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:17:18.334443: get_session() called - creating fresh engine
+2026-02-09 12:17:18.336442: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:17:18.406304: get_session() called - creating fresh engine
+2026-02-09 12:17:18.409417: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:17:22.145584: get_session() called - creating fresh engine
+2026-02-09 12:17:22.147547: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:17:31.609087: get_session() called - creating fresh engine
+2026-02-09 12:17:31.610085: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:17:36.769863: get_session() called - creating fresh engine
+2026-02-09 12:17:36.772819: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:11.036140: get_session() called - creating fresh engine
+2026-02-09 12:18:11.088118: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:16.112976: get_session() called - creating fresh engine
+2026-02-09 12:18:16.113978: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:21.217235: get_session() called - creating fresh engine
+2026-02-09 12:18:21.221224: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:25.468696: get_session() called - creating fresh engine
+2026-02-09 12:18:25.470609: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:26.606064: get_session() called - creating fresh engine
+2026-02-09 12:18:27.167098: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:33.027043: get_session() called - creating fresh engine
+2026-02-09 12:18:33.028564: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:33.062071: get_session() called - creating fresh engine
+2026-02-09 12:18:33.064075: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:38.358211: get_session() called - creating fresh engine
+2026-02-09 12:18:38.360215: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:47.009395: get_session() called - creating fresh engine
+2026-02-09 12:18:47.009395: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:51.008056: get_session() called - creating fresh engine
+2026-02-09 12:18:51.010043: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:51.053093: get_session() called - creating fresh engine
+2026-02-09 12:18:51.055046: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+2026-02-09 12:18:55.205565: get_session() called - creating fresh engine
+2026-02-09 12:18:55.208561: Using engine with URL: postgresql://neondb_owner:***@ep-noisy-band-ah7c3io8-pooler.c-3.us-east-1.aws.neon.tech/neondb?channel_binding=require&sslmode=require
