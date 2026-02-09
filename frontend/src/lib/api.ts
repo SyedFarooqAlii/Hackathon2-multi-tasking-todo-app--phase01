@@ -10,7 +10,7 @@ function isAxiosError(error: unknown): error is AxiosError {
 }
 
 // Base API configuration
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:8000/api/v1'
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || '"https://syedfarooqali-todo-app.hf.space/api/v1"'
 
 // Create axios instance with defaults
 const apiClient = axios.create({
